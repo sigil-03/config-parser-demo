@@ -1,0 +1,3 @@
+plugin_type = "Tasmota"
+name = "tasmota-pump"
+schedule_file = "pump.json"

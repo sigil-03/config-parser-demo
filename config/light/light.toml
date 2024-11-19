@@ -1,0 +1,3 @@
+plugin_type = "Tasmota"
+name = "tasmota-light"
+schedule_file = "light.json"
